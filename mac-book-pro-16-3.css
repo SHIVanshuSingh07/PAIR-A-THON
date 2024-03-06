@@ -1,0 +1,302 @@
+.macbook-pro-16-3-child {
+  position: absolute;
+  top: -4px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1728px;
+  height: 190px;
+}
+.image-1-icon11 {
+  position: absolute;
+  top: 57px;
+  left: 40px;
+  width: 223px;
+  height: 76px;
+  object-fit: cover;
+}
+.group-child114,
+.group-child115 {
+  position: absolute;
+  top: 9px;
+  left: 0;
+  background-color: var(--color-mediumslateblue);
+  width: 186.64px;
+  height: 40px;
+}
+.group-child115 {
+  background-color: var(--color-dimgray-100);
+  width: 73.83px;
+}
+.role11,
+.student3 {
+  position: absolute;
+  top: 0;
+  left: 12px;
+  display: inline-block;
+  width: 50px;
+}
+.student3 {
+  left: 89px;
+  width: 93px;
+}
+.rectangle-parent50 {
+  position: absolute;
+  top: 66px;
+  left: 358px;
+  width: 186.64px;
+  height: 59px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.group-child116 {
+  position: absolute;
+  top: 9px;
+  left: 0;
+  background-color: var(--color-green);
+  width: 168.18px;
+  height: 40px;
+}
+.kushi-a,
+.name14 {
+  position: absolute;
+  top: 3px;
+  left: 7px;
+  display: inline-block;
+  width: 63px;
+}
+.kushi-a {
+  top: 0;
+  left: 81px;
+  font-size: var(--font-size-5xl);
+  width: 86px;
+}
+.rectangle-parent51 {
+  position: absolute;
+  top: 66px;
+  left: 580px;
+  width: 168.18px;
+  height: 59px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.group-child118,
+.group-child119 {
+  position: absolute;
+  top: 9px;
+  left: 0;
+  background-color: var(--color-chocolate);
+  width: 301.49px;
+  height: 40px;
+}
+.group-child119 {
+  background-color: var(--color-dimgray-100);
+  width: 85.11px;
+}
+.ra21110030202731,
+.roll-no11 {
+  position: absolute;
+  top: 3px;
+  left: 2px;
+  display: inline-block;
+  width: 84px;
+}
+.ra21110030202731 {
+  top: 0;
+  left: 88px;
+  font-size: var(--font-size-5xl);
+  width: 218px;
+}
+.rectangle-parent52 {
+  position: absolute;
+  top: 66px;
+  left: 784px;
+  width: 306px;
+  height: 59px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.group-child120,
+.group-child121 {
+  position: absolute;
+  top: 9px;
+  left: 0;
+  background-color: var(--color-tomato);
+  width: 193.81px;
+  height: 40px;
+}
+.group-child121 {
+  background-color: var(--color-dimgray-100);
+  width: 61.53px;
+}
+.cse-e5,
+.dept11 {
+  position: absolute;
+  top: 3px;
+  left: 6px;
+  display: inline-block;
+  width: 52px;
+}
+.cse-e5 {
+  top: 0;
+  left: 84px;
+  font-size: var(--font-size-5xl);
+  width: 115.88px;
+}
+.rectangle-parent53 {
+  position: absolute;
+  top: 66px;
+  left: 1126px;
+  width: 199.88px;
+  height: 59px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.material-symbolslogout-rounde11 {
+  position: absolute;
+  top: 55px;
+  left: 113px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.group-child122 {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  background-color: var(--color-crimson);
+  width: 180px;
+  height: 60px;
+}
+.vector-icon11 {
+  position: absolute;
+  height: 30.38%;
+  width: 12.78%;
+  top: 35.44%;
+  right: 76.11%;
+  bottom: 34.18%;
+  left: 11.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.logout11 {
+  position: absolute;
+  top: 0;
+  left: 57px;
+  display: inline-block;
+  width: 111px;
+  height: 39px;
+}
+.material-symbolslogout-rounde-parent9 {
+  position: absolute;
+  top: 51px;
+  left: 1470px;
+  width: 180px;
+  height: 79px;
+  cursor: pointer;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+}
+.macbook-pro-16-3-item {
+  position: absolute;
+  top: 186px;
+  left: 0;
+  background-color: var(--color-dodgerblue-300);
+  width: 170px;
+  height: 946px;
+}
+.user-1-icon3 {
+  position: absolute;
+  top: 345px;
+  left: 61px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+}
+.home-1-icon11 {
+  top: 216px;
+}
+.exam-1-icon3,
+.home-1-icon11,
+.report-1-icon3 {
+  position: absolute;
+  left: 59px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.report-1-icon3 {
+  top: 472px;
+  cursor: pointer;
+}
+.exam-1-icon3 {
+  top: 601px;
+}
+.macbook-pro-16-3-inner {
+  position: absolute;
+  top: 297px;
+  left: 0;
+  background-color: var(--color-dodgerblue-200);
+  width: 171px;
+  height: 144px;
+}
+.macbook-pro-16-3-child1 {
+  position: absolute;
+  top: 219px;
+  left: 250px;
+  border-radius: var(--br-6xl);
+  background-color: #f8fafb;
+  width: 1399px;
+  height: 541px;
+}
+.image-4-icon {
+  position: absolute;
+  top: 236px;
+  left: 1137px;
+  width: 473px;
+  height: 423px;
+  object-fit: cover;
+}
+.name-kushi-a,
+.year-2nd {
+  position: absolute;
+  top: 280px;
+  left: 323px;
+}
+.year-2nd {
+  top: 339px;
+}
+.current-semester-4th,
+.department-cse- {
+  position: absolute;
+  top: 398px;
+  left: 323px;
+}
+.department-cse- {
+  top: 457px;
+}
+.attendance-97,
+.cgpa-925,
+.roll-number-ra2111003020273 {
+  position: absolute;
+  top: 516px;
+  left: 323px;
+}
+.attendance-97,
+.cgpa-925 {
+  top: 575px;
+}
+.cgpa-925 {
+  top: 634px;
+}
+.macbook-pro-16-3 {
+  position: relative;
+  background-color: var(--color-lavender);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-sans-serif-collection);
+}

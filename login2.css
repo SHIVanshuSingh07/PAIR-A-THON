@@ -1,0 +1,143 @@
+.image-6-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1741px;
+  height: 1131px;
+  object-fit: cover;
+}
+.login-inner {
+  position: absolute;
+  top: 50px;
+  left: 369px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  width: 990px;
+  height: 1020px;
+}
+.student-portal2 {
+  position: absolute;
+  top: 452px;
+  left: 724px;
+  font-weight: 800;
+}
+.login-box-child9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-lavender);
+  width: 590px;
+  height: 490px;
+}
+.login7,
+.rectangle-input {
+  position: absolute;
+  left: 47px;
+}
+.rectangle-input {
+  border: 0;
+  background-color: var(--color-white);
+  top: 97px;
+  border-radius: var(--br-3xs);
+  width: 496px;
+  height: 60px;
+}
+.login7 {
+  top: 30px;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  color: var(--color-black);
+}
+.login-box-child10 {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 186px;
+  left: 47px;
+  border-radius: var(--br-3xs);
+  width: 496px;
+  height: 60px;
+}
+.password2,
+.register-number2 {
+  position: absolute;
+  top: 117px;
+  left: 68px;
+  font-weight: 500;
+}
+.password2 {
+  top: 206px;
+}
+.image-3-icon2 {
+  position: absolute;
+  top: 270px;
+  left: 47px;
+  width: 156px;
+  height: 66px;
+  object-fit: cover;
+}
+.login-box-child11 {
+  position: absolute;
+  top: 379.5px;
+  left: 46.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 461px;
+  height: 1px;
+}
+.login-box-child12,
+.login-box-child13 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-dodgerblue-100);
+  position: absolute;
+  top: 410px;
+  left: 81px;
+  width: 132px;
+  height: 45px;
+}
+.login-box-child13 {
+  left: 349px;
+}
+.forgot-password2,
+.login-box2,
+.login8 {
+  position: absolute;
+  top: 425px;
+  left: 128px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.forgot-password2,
+.login-box2 {
+  left: 359px;
+}
+.login-box2 {
+  top: 520px;
+  left: 569px;
+  width: 590px;
+  height: 490px;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-100);
+}
+.image-9-icon {
+  position: absolute;
+  top: 130px;
+  left: 494px;
+  width: 739px;
+  height: 250px;
+  object-fit: cover;
+}
+.login6 {
+  position: relative;
+  background-color: var(--color-lavender);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-raleway);
+}

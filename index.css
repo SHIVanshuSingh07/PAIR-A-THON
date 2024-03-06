@@ -1,0 +1,462 @@
+.macbook-pro-16-15-child {
+  position: absolute;
+  top: -4px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1728px;
+  height: 190px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 57px;
+  left: 40px;
+  width: 223px;
+  height: 76px;
+  object-fit: cover;
+}
+.material-symbolslogout-rounde {
+  position: absolute;
+  top: 55px;
+  left: 113px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.group-child {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  background-color: var(--color-crimson);
+  width: 180px;
+  height: 60px;
+}
+.vector-icon {
+  position: absolute;
+  height: 30.38%;
+  width: 12.78%;
+  top: 35.44%;
+  right: 76.11%;
+  bottom: 34.18%;
+  left: 11.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.logout {
+  position: absolute;
+  top: 0;
+  left: 59px;
+  display: inline-block;
+  width: 111px;
+  height: 39px;
+}
+.material-symbolslogout-rounde-parent {
+  position: absolute;
+  top: 51px;
+  left: 1470px;
+  width: 180px;
+  height: 79px;
+  cursor: pointer;
+  font-size: var(--font-size-13xl);
+}
+.macbook-pro-16-15-item {
+  position: absolute;
+  top: 186px;
+  left: 0;
+  background-color: var(--color-dodgerblue-300);
+  width: 170px;
+  height: 946px;
+}
+.home-1-icon {
+  position: absolute;
+  top: 229px;
+  left: 60px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.macbook-pro-16-15-inner {
+  position: absolute;
+  top: 186px;
+  left: -1px;
+  background-color: var(--color-dodgerblue-200);
+  width: 171px;
+  height: 144px;
+}
+.quote-request-1-icon {
+  position: absolute;
+  top: 375px;
+  left: 60px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.new-request-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  width: 640px;
+  height: 318px;
+}
+.new-requests {
+  position: absolute;
+  top: 11px;
+  left: 33px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 297px;
+  height: 51px;
+}
+.new-request-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-dodgerblue-300);
+  width: 570px;
+  height: 61.82px;
+}
+.on-duty,
+.shivanshu-ra2111003020282 {
+  position: absolute;
+  top: 0.82px;
+  left: 43px;
+  display: inline-block;
+  width: 361px;
+  height: 30px;
+}
+.on-duty {
+  top: 14.42px;
+  left: 333px;
+  width: 111px;
+  height: 29.88px;
+}
+.new-request-1,
+.new-request-1-item {
+  position: absolute;
+  top: 22.67px;
+  left: 17px;
+  width: 15px;
+  height: 15.45px;
+}
+.new-request-1 {
+  top: 108.18px;
+  left: 33px;
+  width: 570px;
+  height: 61.82px;
+}
+.medical-leave,
+.parth-ra2111003020266 {
+  position: absolute;
+  top: 0.24px;
+  left: 45px;
+  display: inline-block;
+  width: 292px;
+  height: 29.88px;
+}
+.medical-leave {
+  top: 15.45px;
+  left: 346px;
+  width: 174px;
+}
+.new-request,
+.new-request-2 {
+  position: absolute;
+  top: 195.76px;
+  left: 33px;
+  width: 570px;
+  height: 61.82px;
+}
+.new-request {
+  top: 375px;
+  left: 230px;
+  width: 640px;
+  height: 318px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 370px;
+  height: 110px;
+}
+.class-cse-e {
+  position: absolute;
+  top: 6px;
+  left: 35px;
+}
+.icoutline-arrow-drop-down-icon {
+  position: absolute;
+  top: 22px;
+  left: 296px;
+  width: 54px;
+  height: 54px;
+  overflow: hidden;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 230px;
+  left: 230px;
+  width: 370px;
+  height: 110px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+}
+.material-symbolsarrow-right-a-icon {
+  position: absolute;
+  top: 255px;
+  left: 786px;
+  width: 44px;
+  height: 44px;
+  overflow: hidden;
+}
+.rectangle-div {
+  position: absolute;
+  top: 199px;
+  left: 467px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  width: 683px;
+  height: 791px;
+}
+.name-parth,
+.on-duty-request {
+  position: absolute;
+  left: 510px;
+  color: var(--color-black);
+}
+.on-duty-request {
+  top: 247px;
+  font-size: var(--font-size-29xl);
+}
+.name-parth {
+  top: 342px;
+}
+.ra2111003020266 {
+  font-size: var(--font-size-13xl);
+}
+.register-number-ra21110030202-container {
+  position: absolute;
+  top: 405px;
+  left: 510px;
+  color: var(--color-black);
+}
+.span {
+  color: var(--color-goldenrod);
+}
+.credibility-score-75-container {
+  position: absolute;
+  top: 650px;
+  left: 510px;
+  color: var(--color-black);
+}
+.description {
+  margin: 0;
+}
+.since-im-suffering {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+}
+.description-since-im-container {
+  position: absolute;
+  top: 468px;
+  left: 510px;
+  line-height: 50px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 570px;
+}
+.macbook-pro-16-15-child1 {
+  position: absolute;
+  top: 723px;
+  left: 530px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-dodgerblue-100);
+  width: 550px;
+  height: 93px;
+}
+.macbook-pro-16-15-child2,
+.macbook-pro-16-15-child3 {
+  position: absolute;
+  top: 869px;
+  left: 500px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-green);
+  width: 280px;
+  height: 81px;
+  cursor: pointer;
+}
+.macbook-pro-16-15-child3 {
+  left: 833px;
+  background-color: var(--color-crimson);
+}
+.accept,
+.decline,
+.download-attachment {
+  position: absolute;
+  top: 727px;
+  left: 626px;
+}
+.accept,
+.decline {
+  top: 865px;
+  left: 583px;
+}
+.decline {
+  left: 910px;
+}
+.group-child1,
+.group-inner {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  background-color: var(--color-mediumslateblue);
+  width: 143px;
+  height: 40px;
+}
+.group-child1 {
+  background-color: var(--color-dimgray-100);
+  width: 73.83px;
+}
+.hod,
+.role {
+  position: absolute;
+  top: 0;
+  left: 7px;
+  display: inline-block;
+  width: 50px;
+}
+.hod {
+  left: 83px;
+  width: 63px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 65px;
+  left: 344px;
+  width: 146px;
+  height: 59px;
+  font-size: var(--font-size-5xl);
+}
+.group-child2,
+.group-child3 {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  background-color: var(--color-green);
+  width: 207px;
+  height: 40px;
+}
+.group-child3 {
+  background-color: var(--color-dimgray-100);
+  width: 75.95px;
+}
+.kraja,
+.name {
+  position: absolute;
+  top: 3px;
+  left: 10px;
+  display: inline-block;
+  width: 68px;
+}
+.kraja {
+  top: 0;
+  left: 101px;
+  font-size: var(--font-size-5xl);
+  width: 111px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 65px;
+  left: 545px;
+  width: 212px;
+  height: 59px;
+  font-size: var(--font-size-3xl);
+}
+.group-child4,
+.group-child5 {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  background-color: var(--color-chocolate);
+  width: 301.49px;
+  height: 40px;
+}
+.group-child5 {
+  background-color: var(--color-dimgray-100);
+  width: 85.11px;
+}
+.ha2111042020001,
+.roll-no {
+  position: absolute;
+  top: 3px;
+  left: 6px;
+  display: inline-block;
+  width: 84px;
+}
+.ha2111042020001 {
+  top: 0;
+  left: 90px;
+  font-size: var(--font-size-5xl);
+  width: 212px;
+}
+.group-div {
+  position: absolute;
+  top: 65px;
+  left: 810px;
+  width: 302px;
+  height: 59px;
+  font-size: var(--font-size-3xl);
+}
+.group-child6,
+.group-child7 {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  background-color: var(--color-tomato);
+  width: 128px;
+  height: 40px;
+}
+.group-child7 {
+  background-color: var(--color-dimgray-100);
+  width: 61.53px;
+}
+.cse,
+.dept {
+  position: absolute;
+  top: 3px;
+  left: 5px;
+  display: inline-block;
+  width: 52px;
+}
+.cse {
+  top: 0;
+  left: 72px;
+  font-size: var(--font-size-5xl);
+  width: 60px;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 65px;
+  left: 1169px;
+  width: 132px;
+  height: 59px;
+  font-size: var(--font-size-3xl);
+}
+.macbook-pro-16-15 {
+  position: relative;
+  background-color: var(--color-lavender);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-sans-serif-collection);
+}
