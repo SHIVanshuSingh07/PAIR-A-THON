@@ -12,7 +12,8 @@ This project totaly based on frontend.
 ### Shivanshu Singh
 - **Role:** Frontend Developer / UI/UX Designer
 - **Responsibilities:** Coordination of tasks, scheduling, and overall project management. Writing HTML, CSS, and JavaScript code.
-
+### Certificate
+<img src="">
 ### Sajal Arya
 - **Role:** Frontend Developer
 - **Responsibilities:** Helping me for ensuring the website's responsiveness and interactivity.
