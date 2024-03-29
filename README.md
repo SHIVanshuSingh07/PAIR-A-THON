@@ -7,9 +7,8 @@ Description
 The College ERP: Leave and OD Management system is a comprehensive web-based application designed to streamline and automate the process of managing leave requests and On Duty (OD) applications for students and faculty members within a college or educational institution. The system aims to simplify administrative tasks, improve communication, and enhance overall efficiency in handling leave-related processes.
 This project totaly based on frontend.
 
-## ScreenShots
-<video src="ERP.mp4" width="400px" height="400px"> 
-</video>
+## Video Demonstration
+[[[![Project Video](http://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)]](https://github.com/SHIVanshuSingh07/PAIR-A-THON/blob/main/ERP%20(2).mp4)](https://github.com/SHIVanshuSingh07/PAIR-A-THON/blob/main/ERP%20(2).mp4)
 
 ## Team Members
 
